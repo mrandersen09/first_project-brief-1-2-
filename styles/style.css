@@ -1,0 +1,19 @@
+@import url(../page/__logo/_place/logo_place_header.css);
+@import url(../page/__logo/_place/logo_place_footer.css);
+@import url(../fonts/fonts.css);
+@import url(../page/content/__description/description.css);
+@import url(../page/content/__techniques/techniques.css);
+@import url(../page/content/__digits/digits.css);
+@import url(../page/content/__kaufman/kaufman.css);
+@import url(../page/content/__resources/resources.css);
+@import url(../page/__header/header.css);
+@import url(../page/__footer/footer.css);
+@import url(../page/__content/content.css);
+
+/* и элемента с модификатором вида ключ-значение */
+/*.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+}*/
